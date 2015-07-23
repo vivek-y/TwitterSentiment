@@ -1,0 +1,38 @@
+.chart {
+    height: 300px;
+}
+
+.donut{
+    height: 400px;
+}
+
+.spacer {
+    height: 10px;
+}
+
+body{
+    background-color: #2a2a2b;
+    font-family: 'Unica One', sans-serif;
+    color: #FFF;
+
+}
+
+#currentScore {
+    padding-top: 50px;
+}
+
+.form-group {
+    padding-left: 2px;
+}
+
+.table-striped{
+    background: lavender;
+}
+
+.comments tr:nth-child(even) {
+    background: lavender;
+}
+
+.comments tr:nth-child(odd) {
+    background: gainsboro;
+}
